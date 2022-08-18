@@ -50,7 +50,6 @@ class Solution:
         # Write code here
         
         
-
 # Do not edit the following code      
 # Create an instance for LinkedList
 first_list = LinkedList()
